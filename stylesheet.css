@@ -1,0 +1,23 @@
+body{font-family:serif;}
+.header{background-color :rgb(243, 230, 111) ;
+        width :550px;
+        height :60px;
+        padding :10px;
+        }
+.rensan{
+        border:3px solid #ff9723;
+        width:530px;
+}
+p{
+  margin: 0;
+}
+.gyousya{font-size:25px;
+         background: #64dfff;
+         width:500px;}
+.FAST-AUTO{border:3px solid #ff9723;
+          width:530px;
+          }
+body{width:530px;
+     background-color:rgba(213, 255, 129, 0.5);}
+.huno-AUTO{border:3px solid #ff9723;
+        width:530px;}
